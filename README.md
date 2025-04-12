@@ -1,3 +1,5 @@
+📚✅️ Exercícios passados pelo professor Daniel. Consiste em um "joguinho" dos filmes 🎮🎬 <br> 
+Exercícios voltados para prática da linguagem Java. 
 
 # Divertidamente
 
